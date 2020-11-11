@@ -1,6 +1,7 @@
 This project is Angular Quiz Application.
 Once you start a quiz, it will load window with questions. When you submit them it will give you option to check the result.
-Github Repo :
+'
+Github Repo : https://github.com/hnikam1/AngularQuizApp
 
 .gitignore : https://stackoverflow.com/questions/37187092/angular2-gitignore
 
